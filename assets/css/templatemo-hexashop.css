@@ -148,13 +148,13 @@ body {
 
 .main-border-button a {
   font-size: 18px;
-  color: #fff;
+  color: #000;
   /*border: 1px solid #fff;*/
   padding: 12px 25px;
   display: inline-block;
   font-weight: 500;
   transition: all .3s;
-  background: #1f1a06;
+  background: #fff;
 }
 .color-gold a {
   font-size: 18px;
@@ -179,7 +179,7 @@ body {
 }
 
 .main-border-button a:hover {
-  background-color: #3a3e3a;
+  background-color: #000;
   color: #fff;
 }
 
@@ -258,7 +258,7 @@ header
 }
 
 .header-area {
-    background: #40873e;
+    background: #222;
   box-shadow: none;
   position: absolute;
   top: 0px;
@@ -270,7 +270,7 @@ header
   -moz-transition: all .5s ease 0s;
   -o-transition: all .5s ease 0s;
   transition: all .5s ease 0s;
-  border-bottom: 1px solid #5ba357;
+  border-bottom: 1px solid #222;
 }
 
 .header-area .main-nav {
@@ -760,7 +760,7 @@ banner
   bottom: 15px;
   text-align: center;
   /*background-color: rgba(197,166,43,.95);*/
-    background-color: #4f9a4a;
+    background-color: #424242;
   opacity: 0;
   visibility: hidden;
   transition: all 0.5s;
