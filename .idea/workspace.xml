@@ -129,6 +129,24 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="303005311">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.6238145">
@@ -137,10 +155,15 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="196">
-                  <caret line="890" column="12" selection-start-line="890" selection-start-column="12" selection-end-line="890" selection-end-column="12" />
+                <state relative-caret-position="211">
+                  <caret line="357" column="38" lean-forward="true" selection-start-line="357" selection-start-column="38" selection-end-line="357" selection-end-column="38" />
                   <folding>
+                    <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
               </provider>
@@ -149,7 +172,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3349">
+                <state relative-caret-position="4334">
                   <caret line="197" selection-start-line="197" selection-end-line="197" selection-end-column="17" />
                 </state>
               </provider>
@@ -162,7 +185,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/css/templatemo-hexashop.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
+                <state relative-caret-position="374">
                   <caret line="260" column="21" selection-start-line="260" selection-start-column="21" selection-end-line="260" selection-end-column="21" />
                 </state>
               </provider>
@@ -182,13 +205,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>images/boujee-nails-spa-service2-0</find>
-      <find>Special</find>
-      <find>About</find>
-      <find>Abou</find>
-      <find>class=&quot;color-disable&quot;</find>
-      <find>boujee-nails-spa-service2</find>
-      <find>services</find>
       <find>height: 100px</find>
       <find>768</find>
       <find>border</find>
@@ -212,13 +228,15 @@
       <find>boujee</find>
       <find>Service</find>
       <find>logo</find>
+      <find>service</find>
+      <find>services</find>
+      <find>#women</find>
+      <find>#men</find>
+      <find>#kids</find>
+      <find>#explore</find>
+      <find>#top</find>
     </findStrings>
     <replaceStrings>
-      <replace>border-bottom: 1px solid #222;</replace>
-      <replace>https://www.facebook.com/boujeenailandspa</replace>
-      <replace>https://goo.gl/maps/T2hDQWSUkJ1m1iKKA</replace>
-      <replace>https://www.instagram.com/boujee_martins_ferry/</replace>
-      <replace>boujee-nails-spa-gallery-0</replace>
       <replace>gallery/boujee-nails-spa-gallery-0</replace>
       <replace>boujee-nails-spa-service-0</replace>
       <replace>https://www.lldtek.com/salon/appt/MzY5ODd8Ym91amVlMzAxc3xPSF8wNzMzMnw3N2VmNmU1NjBlMTg2ZDcyYWQxNWE0YTlhYjJlODE2OA==</replace>
@@ -244,6 +262,11 @@
       <replace>MO 64870</replace>
       <replace>coco-nails-service-0</replace>
       <replace />
+      <replace>#services</replace>
+      <replace>#specialties</replace>
+      <replace>#gallery</replace>
+      <replace>#about</replace>
+      <replace>#home</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -256,8 +279,8 @@
         <option value="$PROJECT_DIR$/layout.css" />
         <option value="$PROJECT_DIR$/service.html" />
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/templatemo-hexashop.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -282,11 +305,29 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="55 - CoCo Nails - LLDW07 - 20220701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="55 - CoCo Nails - LLDW07 - 20220701" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="55 - CoCo Nails - LLDW07 - 20220701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="55 - CoCo Nails - LLDW07 - 20220701" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../19-Joys Nails" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -346,17 +387,18 @@
       <workItem from="1653017119736" duration="199000" />
       <workItem from="1653018185393" duration="2130000" />
       <workItem from="1653302108432" duration="1547000" />
+      <workItem from="1656647768502" duration="1480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88956000" />
+    <option name="totallyTimeSpent" value="90436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.11275026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08693361" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -403,25 +445,30 @@
     <entry file="file://$PROJECT_DIR$/service.html" />
     <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3349">
+        <state relative-caret-position="4334">
           <caret line="197" selection-start-line="197" selection-end-line="197" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="890" column="12" selection-start-line="890" selection-start-column="12" selection-end-line="890" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/templatemo-hexashop.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="374">
           <caret line="260" column="21" selection-start-line="260" selection-start-column="21" selection-end-line="260" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="357" column="38" lean-forward="true" selection-start-line="357" selection-start-column="38" selection-end-line="357" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
